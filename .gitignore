@@ -1,0 +1,5 @@
+node_modules/
+dist/
+qa-captures/
+.21st/review*.json
+*.log
